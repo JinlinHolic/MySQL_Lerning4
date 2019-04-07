@@ -15,6 +15,12 @@
 
 导入:
 
+![WeChat Image_20190407235337](https://user-images.githubusercontent.com/43989688/55690322-653a6800-5990-11e9-9d97-7a920ac04ea2.png)
+
+从表格那里选择导入 和文件形式csv 进行导入 
+
+参考链接(s使用csv进行） :https://blog.csdn.net/crazyh2/article/details/52120947   稍后补充用cmd导入！！！！！！！！！！！！
+
 
 ### 项目七: 各部门工资最高的员工（难度：中等）
 
