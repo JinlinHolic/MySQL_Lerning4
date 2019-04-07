@@ -151,3 +151,7 @@
 
 +-------+------+
 
+答案: ![WeChat Image_20190407221301](https://user-images.githubusercontent.com/43989688/55689236-61074e00-5982-11e9-9f13-7713f683bb69.png)
+
+注意: 用as新命名rank的时候 加单引号 否则会syntax报错！！！！！！！！！！！
+
