@@ -8,6 +8,10 @@
 
 导出:
 
+
+![WeChat Image_20190407234348](https://user-images.githubusercontent.com/43989688/55690274-68812400-598f-11e9-81a3-76e922a68853.png)
+
+
 ### 项目七: 各部门工资最高的员工（难度：中等）
 
 创建Employee 表，包含所有员工信息，每个员工有其对应的 Id, salary 和 department Id。
