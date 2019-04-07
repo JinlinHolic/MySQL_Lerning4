@@ -19,6 +19,9 @@
 
 从表格那里选择导入 和文件形式csv 进行导入 
 
+![WeChat Image_20190407235622](https://user-images.githubusercontent.com/43989688/55690349-c5c9a500-5990-11e9-92ce-e3fd95f5bc54.png)
+
+
 参考链接(s使用csv进行） :https://blog.csdn.net/crazyh2/article/details/52120947   稍后补充用cmd导入！！！！！！！！！！！！
 
 
