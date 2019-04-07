@@ -236,7 +236,7 @@ Users 表存所有用户。每个用户有唯一键 Users_Id。Banned 表示这�
 
 +------------+-------------------+
 
-答案; 
+答案(sqly语句); 
 select request_at,round(sum(case when status="completed" then 0 else 1 end)/count(*),2) from
 
 (select * from Trips
@@ -247,6 +247,7 @@ request_at <= "2013-10-03") t
 
 group by request_at order by request_at asc;
 
+![WeChat Image_20190407233105](https://user-images.githubusercontent.com/43989688/55690108-4ab2bf80-598d-11e9-9049-99509811931c.png)
 
 
 
