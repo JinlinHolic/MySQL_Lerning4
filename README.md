@@ -312,5 +312,9 @@ group by request_at order by request_at asc;
 
 此外，请考虑实现各部门前N高工资的员工功能。
 
+![WeChat Image_20190408225757](https://user-images.githubusercontent.com/43989688/55756430-d0983e80-5a51-11e9-8c82-0a98e205738c.png)
+
+
+
 
 
